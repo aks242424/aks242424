@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hello, I'm Arun Kumar Singh 👋
 
-<!--
-**aks242424/aks242424** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 Future Computer Scientist Engineer
+I am a technology-oriented learner shifting from my current studies to B.Tech in Computer Science Engineering. My areas of interest include Python programming and database management with SQL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Technical Skills
+- **Programming Languages:** Python (Intermediate), SQL/MySQL
+- **Data Processing:** Pandas, NumPy, Matplotlib
+- **Miscellaneous:** Excel, Microsoft Office Suite, PDF Compression
+
+---
+
+### 🔬 Current Studies
+- 📘 **Grade XII (IP):** 80% | **Grade X:** 91%
+- 💼 **Current Course:** [Introduction to Computer Science](https://cs50.harvard.edu/x/2026/)
+- ✨ **Future Goals:** Learn C Programming, Develop Websites, Understand Algorithms.
+
+---
+
+### 📩 Reach out to me:
+[LinkedIn](https://www.linkedin.com/in/aks242424) | [Email: arun20080411@gmail.com]
+
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=aks242424&show_icons=true&theme=radical)
