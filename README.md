@@ -24,4 +24,4 @@ I am a technology-oriented learner shifting from my current studies to B.Tech in
 
 ### 📩 Reach out to me:
 [LinkedIn](https://www.linkedin.com/in/aks242424/) | [Email: arun20080411@gmail.com]
-![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=aks242424&show_icons=true&theme=radical)
+![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=aks242424&show_icons=true&theme=dark)
