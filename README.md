@@ -1,6 +1,6 @@
 # Hello, I'm Arun Kumar Singh 👋
 
-### 💻 Future Computer Scientist Engineer
+### 💻 Future Computer Science Engineer
 I am a technology-oriented learner shifting from my current studies to B.Tech in Computer Science Engineering. My areas of interest include Python programming and database management with SQL.
 
 ---
@@ -8,7 +8,7 @@ I am a technology-oriented learner shifting from my current studies to B.Tech in
 ### 🔧 Technical Skills
 - **Programming Languages:** Python (Intermediate), SQL/MySQL
 - **Data Processing:** Pandas, NumPy, Matplotlib
-- **Miscellaneous:** Excel, Microsoft Office Suite, PDF Compression
+- **Tools & Software:** Excel, Microsoft Office Suite, PDF Management
 
 ---
 
@@ -20,6 +20,6 @@ I am a technology-oriented learner shifting from my current studies to B.Tech in
 ---
 
 ### 📩 Reach out to me:
-[LinkedIn](https://www.linkedin.com/in/aks242424) | [Email: arun20080411@gmail.com]
+[LinkedIn](https://www.linkedin.com/in/aks242424/) | [Email: arun20080411@gmail.com]
 
 ![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=aks242424&show_icons=true&theme=radical)
