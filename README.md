@@ -6,9 +6,12 @@ I am a technology-oriented learner shifting from my current studies to B.Tech in
 ---
 
 ### 🔧 Technical Skills
-- **Programming Languages:** Python (Intermediate), SQL/MySQL
-- **Data Processing:** Pandas, NumPy, Matplotlib
-- **Tools & Software:** Excel, Microsoft Office Suite, PDF Management
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 
