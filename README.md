@@ -10,7 +10,7 @@ Right now, I am focusing heavily on mastering core programming paradigms, perfec
 
 *   🎓 **Incoming:** B.Tech in Computer Science Engineering[cite: 2]
 *   📊 **Academic Background:** Grade XII (IP): **80%** | Grade X: **91%**[cite: 2]
-*   🎯 **Current Focus:** I am actively pursuing Harvard's CS50 course[cite: 2].
+*   🎯 **Current Focus:** I am actively doing CS50[cite: 2].
 *   🔮 **Future Goals:** Dive deep into low-level C programming, expand my web development skills, and explore advanced algorithmic structures[cite: 2].
 
 ---
@@ -19,9 +19,11 @@ Right now, I am focusing heavily on mastering core programming paradigms, perfec
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Programming** | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) |
-| **Data Science** | ![](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) |
-| **Productivity** | ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) |
+| **Programming** | ![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)[cite: 2] |
+| **Data Science** | ![](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)[cite: 2] |
+| **Productivity** | ![](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)[cite: 2] |
+
+---
 
 ## 📂 Featured Projects
 
@@ -40,11 +42,11 @@ An action-packed, event-driven arcade shooter built using MIT Scratch blocks and
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <!-- Core Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=aks242424&show_icons=true&theme=radical&count_private=true" alt="Arun's GitHub Stats" height="195px" />
+  <!-- Core Stats Card (Using high-availability fallback mirror) -->
+  <img src="https://github-readme-stats-eight.vercel.app/api?username=aks242424&show_icons=true&theme=radical&count_private=true" alt="Arun's GitHub Stats" height="195px" />
   
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aks242424&layout=compact&theme=radical" alt="Most Used Languages" height="195px" />
+  <!-- Most Used Languages Card (Using high-availability fallback mirror) -->
+  <img src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=aks242424&layout=compact&theme=radical" alt="Most Used Languages" height="195px" />
 </p>
 
 <p align="left">
@@ -59,7 +61,7 @@ An action-packed, event-driven arcade shooter built using MIT Scratch blocks and
 I am always open to discussing computer science fundamentals, Python projects, or learning methodologies. Feel free to drop a message!
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://linkedin.com/in/aks242424" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:arun20080411@gmail.com">
