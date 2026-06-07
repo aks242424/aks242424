@@ -1,7 +1,7 @@
 # Hey there, I'm Arun Kumar Singh! 👋
 
 <p align="left">
-  <img src="https://komarev.com/badge/counter.svg?username=aks242424&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faks242424%2Faks242424&count_bg=%23007ACC&title_bg=%23555555&icon=&icon_color=%23ECECEC&title=Profile+Views&edge_flat=false" alt="Profile Views" />
 </p>
 
 I am a technology-oriented learner transitioning from my high school studies into a **B.Tech in Computer Science Engineering**. I love building clean terminal applications, designing logic systems, and exploring data patterns.
@@ -34,8 +34,10 @@ Here is what I am actively diving into this month to prepare for my B.Tech journ
 
 ## 🏆 GitHub Trophies
 
+## 🏆 GitHub Trophies
+
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=aks242424&theme=radical&column=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-moderator.vercel.app/api/trophies?username=aks242424&theme=radical" alt="GitHub Trophies" />
 </p>
 
 ---
