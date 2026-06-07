@@ -1,7 +1,7 @@
 # Hey there, I'm Arun Kumar Singh! 👋
 
 <p align="left">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faks242424%2Faks242424&count_bg=%23007ACC&title_bg=%23555555&icon=&icon_color=%23ECECEC&title=Profile+Views&edge_flat=false" alt="Profile Views" />
+  <img src="https://hits.dwyl.com/aks242424/aks242424.svg" alt="Profile Views" />
 </p>
 
 I am a technology-oriented learner transitioning from my high school studies into a **B.Tech in Computer Science Engineering**. I love building clean terminal applications, designing logic systems, and exploring data patterns.
@@ -32,12 +32,12 @@ Here is what I am actively diving into this month to prepare for my B.Tech journ
 
 ---
 
-## 🏆 GitHub Trophies
-
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies & Milestones
 
 <p align="left">
-  <img src="https://github-profile-moderator.vercel.app/api/trophies?username=aks242424&theme=radical" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Contributions-27_Total-ff69b4?style=flat-square&logo=github" alt="Total Contributions" />
+  <img src="https://img.shields.io/badge/Current_Streak-1_Day-orange?style=flat-square&logo=github" alt="Current Streak" />
+  <img src="https://img.shields.io/badge/Longest_Streak-1_Day-brightgreen?style=flat-square&logo=github" alt="Longest Streak" />
 </p>
 
 ---
