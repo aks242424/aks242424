@@ -1,7 +1,7 @@
 # Hey there, I'm Arun Kumar Singh! 👋
 
 <p align="left">
-  <img src="https://hits.dwyl.com/aks242424/aks242424.svg" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/dynamic/json?label=Profile_Views&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Faks242424%2Fvisits&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 I am a technology-oriented learner transitioning from my high school studies into a **B.Tech in Computer Science Engineering**. I love building clean terminal applications, designing logic systems, and exploring data patterns.
