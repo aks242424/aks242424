@@ -1,5 +1,9 @@
 # Hey there, I'm Arun Kumar Singh! 👋
 
+<p align="left">
+  <img src="https://komarev.com/badge/counter.svg?username=aks242424&style=flat-square&color=blue" alt="Profile Views" />
+</p>
+
 I am a technology-oriented learner transitioning from my high school studies into a **B.Tech in Computer Science Engineering**. I love building clean terminal applications, designing logic systems, and exploring data patterns.
 
 Right now, I am focusing heavily on mastering core programming paradigms, perfecting database designs with SQL, and building a strong problem-solving foundation.
@@ -11,10 +15,28 @@ Right now, I am focusing heavily on mastering core programming paradigms, perfec
 * 🎓 **Incoming:** B.Tech in Computer Science Engineering
 * 📊 **Academic Background:** Grade XII (IP): **80%** | Grade X: **91%**
 * 🎯 **Current Focus:** I am actively doing CS50.
-* 🔮 **Future Goals:** * Master low-level memory management and core data structures in **C**.
+* 🔮 **Future Goals:**
+    * Master low-level memory management and core data structures in **C**.
     * Bridge my Python backend logic with relational SQL engines to build scalable database architectures.
     * Transition complex terminal-based applications into clean, functional user interfaces.
     * Deepen mathematical problem-solving skills for high-efficiency algorithmic performance.
+
+---
+
+## 📖 Current Learning Blueprint
+
+Here is what I am actively diving into this month to prepare for my B.Tech journey:
+* **Low-Level Fundamentals:** Understanding memory allocation, pointers, and manual array management in **C**.
+* **Database Optimization:** Learning query performance, normalization patterns, and indexing strategies.
+* **Software Engineering Practices:** Moving from local script execution to structured source control workflow principles using Git.
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=aks242424&theme=radical&column=4" alt="GitHub Trophies" />
+</p>
 
 ---
 
