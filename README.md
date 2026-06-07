@@ -1,9 +1,5 @@
 # Hey there, I'm Arun Kumar Singh! 👋
 
-<p align="left">
-  <img src="https://profile-counter.glitch.me/aks242424/count.svg" alt="Profile Views" />
-</p>
-
 I am a technology-oriented learner transitioning from my high school studies into a **B.Tech in Computer Science Engineering**. I love building clean terminal applications, designing logic systems, and exploring data patterns.
 
 Right now, I am focusing heavily on mastering core programming paradigms, perfecting database designs with SQL, and building a strong problem-solving foundation.
