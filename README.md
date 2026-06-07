@@ -40,12 +40,15 @@ An action-packed, event-driven arcade shooter built using MIT Scratch blocks and
 ## 📊 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aks242424&show_icons=true&theme=radical&rank_icon=github&count_private=true" alt="Arun's GitHub Stats" height="195px" />
+  <!-- Core Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aks242424&show_icons=true&theme=radical&count_private=true" alt="Arun's GitHub Stats" height="195px" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aks242424&layout=compact&theme=radical&hide_progress=false" alt="Most Used Languages" height="195px" />
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aks242424&layout=compact&theme=radical" alt="Most Used Languages" height="195px" />
 </p>
 
 <p align="left">
+  <!-- Streak Tracker Card -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aks242424&theme=radical" alt="GitHub Streak" />
 </p>
 
