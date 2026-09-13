@@ -1,84 +1,56 @@
-# Hey there, I'm Arun Kumar Singh! 👋
+# Hey there, I'm Arun Kumar Singh! 👋 (@aks242424)
 
-I am a technology-oriented learner transitioning from my high school studies into a **B.Tech in Computer Science Engineering**. I love building clean terminal applications, designing logic systems, and exploring data patterns.
-
-Right now, I am focusing heavily on mastering core programming paradigms, perfecting database designs with SQL, and building a strong problem-solving foundation.
+I am a software engineering learner currently pursuing my **B.Tech in Computer Science & Engineering (Core)** at **Deen Dayal Upadhyaya Gorakhpur University (DDUGU)**. I focus on building functional logic systems, designing clean relational database architectures, and studying lower-level execution models to write efficient, optimized code.
 
 ---
 
-## 🚀 About Me
-
-* 🎓 **Incoming:** B.Tech in Computer Science Engineering
-* 📊 **Academic Background:** Grade XII (IP): **80%** | Grade X: **91%**
-* 🎯 **Current Focus:** I am actively doing CS50.
-* 🔮 **Future Goals:**
-    * Master low-level memory management and core data structures in **C**.
-    * Bridge my Python backend logic with relational SQL engines to build scalable database architectures.
-    * Transition complex terminal-based applications into clean, functional user interfaces.
-    * Deepen mathematical problem-solving skills for high-efficiency algorithmic performance.
+### 🎓 Academic Background
+* **Degree:** B.Tech in Computer Science & Engineering (Core) | Deen Dayal Upadhyaya Gorakhpur University
+* **High School:** Class XII (PCM & IP): 80% | Class X: 91%
 
 ---
 
-## 📖 Current Learning Blueprint
+### 🛠️ Technical Toolbox
 
-Here is what I am actively diving into this month to prepare for my B.Tech journey:
-* **Low-Level Fundamentals:** Understanding memory allocation, pointers, and manual array management in **C**.
-* **Database Optimization:** Learning query performance, normalization patterns, and indexing strategies.
-* **Software Engineering Practices:** Moving from local script execution to structured source control workflow principles using Git.
+**Languages & Logic**  
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
----
+**Databases & Analytics**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-## 🏆 GitHub Trophies & Milestones
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Contributions-27_Total-ff69b4?style=flat-square&logo=github" alt="Total Contributions" />
-  <img src="https://img.shields.io/badge/Current_Streak-1_Day-orange?style=flat-square&logo=github" alt="Current Streak" />
-  <img src="https://img.shields.io/badge/Longest_Streak-1_Day-brightgreen?style=flat-square&logo=github" alt="Longest Streak" />
-</p>
-
----
-
-## 🛠️ Technical Toolbox
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Programming** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" /> |
-| **Data Science** | <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" /> |
-| **Productivity** | <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" /> |
+**Tools & Workflow**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📂 Featured Projects
-
-### 🏨 [Hotel Management System](https://github.com/aks242424/Hotel-Management-System)
-A robust, terminal-based CLI application built in Python and backed by an interactive, 6-table relational SQLite database (`HMS.db`).
-* **Features:** Handles guest onboarding, room renting (Budget to Ultra Royal tiers), separate billing counters for the internal restaurant, gaming zone, fashion center, and generates final check-out reports.
-* **Tech Stack:** Python 3.13+, SQLite 3.
-
-### 🌌 [Space-Dodger Game](https://github.com/aks242424/Space-Dodger-Game)
-An action-packed, event-driven arcade shooter built using MIT Scratch blocks and deployed natively on the web via HTML.
-* **Features:** Implements manual cloning for memory management, precise multi-sprite hitbox collision detection, global state management, and escalating difficulty scales.
-* **Tech Stack:** MIT Scratch, HTML5.
+### 🚀 Core Focus & Learning Goals
+* Master low-level memory management and object-oriented paradigms in C and C++.
+* Bridge Python backend logic with relational SQL engines to build scalable database architectures.
+* Deepen mathematical problem-solving skills for high-efficiency algorithmic performance.
 
 ---
 
-## 📊 GitHub Analytics
+### 📂 Featured Projects
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aks242424&theme=radical" alt="GitHub Streak" />
-</p>
+* **Hotel Management System**
+  * A terminal-based CLI application built in Python and backed by a relational SQLite database (`HMS.db`).
+  * **Features:** Manages guest onboarding, room renting (Budget to Ultra Royal tiers), separate billing counters for internal services, and generates checkout reports.
+  * **Tech Stack:** Python 3.13+, SQLite 3
+
+* **Space-Dodger Game**
+  * An action-packed, event-driven arcade shooter deployed natively on the web via HTML.
+  * **Features:** Multi-sprite collision detection, global state management, and escalating difficulty scales.
+  * **Tech Stack:** Scratch, HTML5
 
 ---
 
-## 🤝 Let's Connect!
-
-I am always open to discussing computer science fundamentals, Python projects, or learning methodologies. Feel free to drop a message!
-
-<p align="left">
-  <a href="https://linkedin.com/in/aks242424" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:arun20080411@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+### 🌐 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/aks242424](https://www.linkedin.com/in/aks242424)
