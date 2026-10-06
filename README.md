@@ -8,7 +8,7 @@ I am a software engineering learner currently pursuing my **B.Tech in Computer S
 * **B.Tech in Computer Science & Engineering (Core)** | Deen Dayal Upadhyaya Gorakhpur University
 * **Senior Secondary (Class XII):** 80%  
   * *Subjects:* Physics, Chemistry, Mathematics, English, Informatics Practices
-* **Secondary (Class X):** 91% (Top 5)  
+* **Secondary (Class X):** 91% 
   * *Subjects:* Science, Mathematics, English, Social Science, Computer
 
 ---
